@@ -16,7 +16,7 @@ test files to create the outline using existing tests.
 ### Setup:
 #### MacOS / Linux:
 Update .zshrc / .bashrc in the root directory with the following line:
-> alias "pytest"="python3 \<path to pytest>"'
+> alias "pytest"="python3 <path to pytest>"'
 #### Windows:
 Run the command in command prompt (Required to run on every instance)
-> doskey "pytest"="python3 \<path to pytest> $*"
+> doskey "pytest"="python3 <path to pytest> $*"
